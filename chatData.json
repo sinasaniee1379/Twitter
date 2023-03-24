@@ -1,0 +1,116 @@
+{
+  "hastags": [
+    "پرچم_دار_موبایل",
+    "ویروس کرونا",
+    "برترین های 2021",
+    "پرچم_دار_موبایل",
+    "ویروس کرونا",
+    "برترین های 2021"
+  ],
+  "twitt": [
+    {
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کس￾ خورشت #کرفس درست کنه",
+      "like": 5
+    },
+    {
+      "Sender": {
+        "name": "سیامک کوه دره",
+        "id": " kooh_siamak@",
+        "img": "img/Screenshot_2021-08-17_094048.png"
+      },
+      "text": "بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کس￾ خورشت #کرفس درست کنه",
+      "like": 160
+    },
+    {
+      "Sender": {
+        "name": "sina saniee",
+        "id": "sina___san@",
+        "img": "img/Screenshot_2021-08-17_094116.png"
+      },
+      "text": "بهترین وعده غذایی با اختلاف زیادی صبحانست چون ممکن نیست برای #صبحانه کس￾ خورشت #کرفس درست کنه",
+      "like": 20
+    },
+    {
+      "id": 15,
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "سلام  خوبی",
+      "like": 5
+    },
+    {
+      "id": 93,
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "سلام خوبی\n\n",
+      "like": 5
+    },
+    {
+      "id": 2,
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "slm khobi",
+      "like": 5
+    },
+    {
+      "id": 7,
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "sadscdsa",
+      "like": 5
+    },
+    {
+      "id": 5,
+      "Sender": {
+        "name": "محمد سینا صنیعی",
+        "id": "sina___san@",
+        "img": "img/IMG_20191105_103302.jpg"
+      },
+      "text": "edsas",
+      "like": 5
+    }
+  ],
+  "twittlist": [
+    {
+      "title": "Xiaomi",
+      "id": "Xiaomi@",
+      "img": "/img/xiaomi-33319.png"
+    },
+    {
+      "title": "Samsung",
+      "id": "Samsung@",
+      "img": "/img/samsung.png"
+    },
+    {
+      "title": "بیل گیتس",
+      "id": "BillGates@",
+      "img": "/img/Screenshot_2021-08-17_094048.png"
+    },
+    {
+      "title": "مایک بای",
+      "id": "Mike_IMC@",
+      "img": "/img/Screenshot_2021-08-17_094116.png"
+    },
+    {
+      "title": "شرل￾ ونگ!",
+      "id": "Shirley_IMC@",
+      "img": "/img/Screenshot_2021-08-17_094136.png"
+    }
+  ]
+}
